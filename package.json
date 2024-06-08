@@ -9,7 +9,7 @@
     "@types/node": "^12.12.18",
     "gts": "^1.1.2",
     "tslint": "^5.20.1",
-    "typescript": "^3.7.3"
+    "typescript": "^3.9.10"
   },
   "scripts": {
     "check": "gts check",
